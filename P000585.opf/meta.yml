@@ -3,5 +3,24 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6654
   title: བརྒྱད་སྟོང་འགྲེལ་ཆེན་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ།
-  volume: ''
+  volume:
+    ad662f8668b0410d95b0f697b17ae9c2:
+      image_group_id: I3CN6656
+      title: Volume 1 of 'phags pa brgyad stong pa'i 'grel chen mngon par rtogs pa'i
+        rgyan gyi snang ba/
+      volume_number: 1
+      total_pages: 540
+    392fd8f976614250a141fa28fb72c904:
+      image_group_id: I3CN6657
+      title: Volume 2 of 'phags pa brgyad stong pa'i 'grel chen mngon par rtogs pa'i
+        rgyan gyi snang ba/
+      volume_number: 2
+      total_pages: 542
   author: ''
+ebook_metadata:
+  title: བརྒྱད་སྟོང་འགྲེལ་ཆེན་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ།
+  author: ''
+  sku: P000585
+  cover: cover.jpg
+  layers:
+  - pagination
