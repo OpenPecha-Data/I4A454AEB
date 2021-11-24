@@ -1,5 +1,7 @@
 id: P000585
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W3CN6654
   title: བརྒྱད་སྟོང་འགྲེལ་ཆེན་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ།
@@ -19,10 +21,3 @@ source_metadata:
       volume_number: 2
       total_pages: 542
       base_file: v002.txt
-ebook_metadata:
-  title: བརྒྱད་སྟོང་འགྲེལ་ཆེན་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ།
-  author: ''
-  sku: P000585
-  cover: cover.jpg
-  layers:
-  - pagination
